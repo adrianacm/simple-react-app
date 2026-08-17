@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": "Keyboard",
+      "image": "https://images.unsplash.com/photo-1637870995624-692d2e95b5dd?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "Electronics",
+      "price": 89,
+      "rating": 4.7
+    },
+    {
+      "id": 2,
+      "name": "Coffee Mug",
+      "image": "https://images.unsplash.com/photo-1662624565375-a8349985ed6e?q=80&w=1973&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "Kitchen",
+      "price": 12,
+      "rating": 4.3
+    },
+    {
+        "id": 3,
+        "name": "Candle",
+        "image": "https://images.unsplash.com/photo-1674812709441-9973e24bbaf5?q=80&w=988&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Decorations",
+        "price": 15,
+        "rating": 2.3
+      },
+      {
+        "id": 4,
+        "name": "Moisturiser",
+        "image": "https://images.unsplash.com/photo-1629732097571-b042b35aa3ed?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Skincare",
+        "price": 40,
+        "rating": 4.9
+      },
+      {
+        "id": 5,
+        "name": "Tablet",
+        "image": "https://images.unsplash.com/photo-1628866971124-5d506bf12915?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Electronics",
+        "price": 1200,
+        "rating": 3.7
+      }
+  ]
+  
+  
