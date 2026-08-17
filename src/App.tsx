@@ -99,7 +99,9 @@ function App() {
 
   return (
     <div className="container">
-      <h2 className="my-5">Products ({filteredProducts.length})</h2>
+      <h2 className="my-5 d-flex justify-content-center">
+        Products ({filteredProducts.length})
+      </h2>
 
       <ListProducts>
         <ProductFilters
